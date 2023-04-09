@@ -28,12 +28,17 @@
  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 </p>
 
-🔗 &nbsp;**Connect with me**
+<a href="https://www.codewars.com/users/CosmoboyMe" target="_blank">
+ <img src="https://www.codewars.com/users/CosmoboyMe/badges/large" />
+<a/>
+
+<h3>Connect with me</h3>
 <p>
-  <a href="https://t.me/CosmoboyMe">
+  <a href="https://t.me/CosmoboyMe" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <a/>
-  <a href="mailto: 14failz14@gmail.com">
+  <a href="mailto:14failz14@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   <a/>
 </p>
+
