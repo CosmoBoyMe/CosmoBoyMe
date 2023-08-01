@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React, Typescript, Backend
 - 💬 Ask me about anything an everything
 - ⚡ Fun fact: There are 10 kinds of people. Those who get Binary and those who don't!
-- LeetCode Rank <b>1,796,690</b>
+- LeetCode Rank <b>1,756,408</b>
 
 <h3>Things I code with</h3>
 
